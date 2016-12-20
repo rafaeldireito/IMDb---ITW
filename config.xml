@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="pt.talents-e-treasures.aguedacomvida" version="1.0.0.201511151632" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
   <name>ITW - IMDb</name>
-  <description>Esta plataforma servirá para o desenvolvimento de aplcações móveis na unidade curricular de Introdução às tecnologias Web (ITW) no ano letivo de 2015/16.</description>
-  <author email="jsp@ua.pt" href="www.ua.pt/deti">Departamento de Engª Elestrónica e Telecomunicações, Universidade de Aveiro</author>
+  <description>Esta plataforma servirá para o desenvolvimento de aplcações móveis na unidade curricular de Introdução às tecnologias Web (ITW) no ano letivo de 2016/17.</description>
+  <author email="jsp@ua.pt" href="pt.ua.itw">Departamento de Engª Elestrónica e Telecomunicações, Universidade de Aveiro</author>
   <preference name="permissions" value="none" />
   <preference name="orientation" value="default" />
   <preference name="target-device" value="universal" />
